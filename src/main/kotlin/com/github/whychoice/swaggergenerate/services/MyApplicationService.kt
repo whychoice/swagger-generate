@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.whychoice.swaggergenerate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.whychoice.swaggergenerate.MyBundle
 
 class MyApplicationService {
 
